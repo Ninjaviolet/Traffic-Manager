@@ -37,3 +37,5 @@ class Jeu:
             self.horloge.tick(60)
 
         pygame.quit
+
+#test
