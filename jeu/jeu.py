@@ -38,4 +38,3 @@ class Jeu:
 
         pygame.quit
 
-#test
